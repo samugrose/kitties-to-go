@@ -1,5 +1,5 @@
 a {
-  color: blue;
+  color: cyan;
 }
 
 h3 {
@@ -8,4 +8,9 @@ h3 {
 
 p {
   font-weight: lighter;
+}
+
+figure {
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
 }
